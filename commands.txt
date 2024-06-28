@@ -1,0 +1,7 @@
+git config --list
+
+git confifg --global user.name "username"
+
+git confifg --global user.emal "email"
+
+
